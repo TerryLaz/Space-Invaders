@@ -1,0 +1,27 @@
+﻿  Alien.cpp
+D:\Terry\Documents\BTH\Termin 2\DV1595 Objektorienterad spelprogrammering i C++\Space Invaders\Space Invaders\CodePC\MainProgram\Alien.cpp(17,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Terry\Documents\BTH\Termin 2\DV1595 Objektorienterad spelprogrammering i C++\Space Invaders\Space Invaders\CodePC\MainProgram\Alien.cpp(17,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  Entity.cpp
+  Game.cpp
+  GameState.cpp
+  HighScoreInput.cpp
+  main.cpp
+  Menu.cpp
+D:\Terry\Documents\BTH\Termin 2\DV1595 Objektorienterad spelprogrammering i C++\Space Invaders\Space Invaders\CodePC\MainProgram\Menu.cpp(28,31): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\Terry\Documents\BTH\Termin 2\DV1595 Objektorienterad spelprogrammering i C++\Space Invaders\Space Invaders\CodePC\MainProgram\Menu.cpp(28,31): warning C4244:         with
+D:\Terry\Documents\BTH\Termin 2\DV1595 Objektorienterad spelprogrammering i C++\Space Invaders\Space Invaders\CodePC\MainProgram\Menu.cpp(28,31): warning C4244:         [
+D:\Terry\Documents\BTH\Termin 2\DV1595 Objektorienterad spelprogrammering i C++\Space Invaders\Space Invaders\CodePC\MainProgram\Menu.cpp(28,31): warning C4244:             T=unsigned int
+D:\Terry\Documents\BTH\Termin 2\DV1595 Objektorienterad spelprogrammering i C++\Space Invaders\Space Invaders\CodePC\MainProgram\Menu.cpp(28,31): warning C4244:         ]
+  MotherShip.cpp
+D:\Terry\Documents\BTH\Termin 2\DV1595 Objektorienterad spelprogrammering i C++\Space Invaders\Space Invaders\CodePC\MainProgram\MotherShip.cpp(10,28): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Terry\Documents\BTH\Termin 2\DV1595 Objektorienterad spelprogrammering i C++\Space Invaders\Space Invaders\CodePC\MainProgram\MotherShip.cpp(10,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  Projectile.cpp
+  Score.cpp
+  Ship.cpp
+D:\Terry\Documents\BTH\Termin 2\DV1595 Objektorienterad spelprogrammering i C++\Space Invaders\Space Invaders\CodePC\MainProgram\Ship.cpp(14,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Terry\Documents\BTH\Termin 2\DV1595 Objektorienterad spelprogrammering i C++\Space Invaders\Space Invaders\CodePC\MainProgram\Ship.cpp(14,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 510 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  MainProgram.vcxproj -> D:\Terry\Documents\BTH\Termin 2\DV1595 Objektorienterad spelprogrammering i C++\Space Invaders\Space Invaders\Bin\x64\Template.exe
